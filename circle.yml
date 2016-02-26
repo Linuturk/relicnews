@@ -1,0 +1,3 @@
+test:
+  override:
+    - ansible-lint site.yml
